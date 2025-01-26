@@ -3,7 +3,7 @@ description: JSON ga o'xshash microtheme
 baseurl: /haqida
 url: https://jahongir-qurbonov.github.io
 
-theme: hacked-jekyll
+theme: null
 
 exclude:
   - LICENSE
