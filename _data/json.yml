@@ -3,7 +3,7 @@
 
 - key: Ma'lumot
   value:
-    - value: Salom!
-    - value: Bu kichik veb-sayt
-    - value: JSONga o'xshash ko'rinishda
+    - Salom!
+    - Bu kichik veb-sayt
+    - JSONga o'xshash ko'rinishda
   typed: true
