@@ -1,3 +1,9 @@
 - key: Ism
   value: Jahongir Qurbonov
+
+- key: Ma'lumot
+  value:
+    - value: Salom!
+    - value: Bu kichik veb-sayt
+    - value: JSONga o'xshash ko'rinishda
   typed: true
