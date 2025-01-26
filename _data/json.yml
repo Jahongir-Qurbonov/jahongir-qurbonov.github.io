@@ -1,11 +1,18 @@
 - key: Ism
   value: Jahongir Qurbonov
 
-- key: Ma'lumot
+- key: Tavfsif
   value:
     - Salom!
-    - Bu kichik veb-sayt
-    - JSONga o'xshash ko'rinishda
+    - Sahifamga hush kelibsiz.
+    - Bu sahifa JSONga o'xshash ko'rinishda.
+
+- key: Men haqimda
+  value: 
+    - Introvert
+    - Sobiq Matematik va fizik
+    - Computer scientist
+    - Software developer
   typed: true
 
 - key: Bog'lanish
