@@ -10,8 +10,15 @@
 
 - key: Bog'lanish
   value: 
-    - key: Telefon
-      value: +998 90 720 16 64
+    # - key: Telefon
+    #   value: +998 90 720 16 64
     - key: Email
       value: qurbonovjahongir17@gmail.com
       url: "mailto:qurbonovjahongir17@gmail.com"
+
+- key: Profillar
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/jahongir-qurbonov/
+    - value: GitHub
+      url: https://github.com/Jahongir-Qurbonov
