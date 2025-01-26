@@ -1,3 +1,6 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem 'hacked-jekyll', '~> 3.0'
+source "https://rubygems.org"
+gemspec
+
+gem "webrick", "~> 1.8"
